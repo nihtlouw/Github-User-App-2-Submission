@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Tema untuk Light Mode -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorSecondary">@color/gh_5</item>
+        <item name="colorOnBackground">@color/white</item>
+
+    </style>
+
+
+
+</resources>

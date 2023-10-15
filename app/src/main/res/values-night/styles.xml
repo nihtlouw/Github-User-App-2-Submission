@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Tema untuk Dark Mode -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorSecondary">@color/gh_5</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="colorOnBackground">@color/gh_7</item>
+    </style>
+
+</resources>
+
+
+
+

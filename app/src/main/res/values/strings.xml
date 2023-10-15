@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">App Github User</string>
+
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="repository">Repositories:</string>
+    <string name="follower">followers </string>
+    <string name="following">following</string>
+    <string name="value">99</string>
+
+    <string name="detail_user">Detail User</string>
+    <string name="not_found">Not Found</string>
+    <string name="account">Akun GitHub</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan username</string>
+
+    <string name="favorite">Favorite User\'s</string>
+    <string name="setting">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>

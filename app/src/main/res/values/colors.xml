@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="gh_1">#171515</color>
+    <color name="gh_4">#817f7f</color>
+    <color name="gh_5"> #510AC9</color>
+    <color name="gh_6"> #F7E7FB</color>
+    <color name="gh_7">#4A4A4A</color>
+    <!-- https://encycolorpedia.id/171515 -->
+</resources>
